@@ -21,3 +21,6 @@ Next.js 15 / React 19 offseason simulator, preserving the original GM MODE inter
 
 ## Deployment
 Upload the contents of this project directory to the GitHub repository root. Vercel will deploy on a connected production-branch push.
+
+## Build fix (October 15, 2026)
+Removed a stale free-agent negotiation modal in `components/GMApp.tsx` that called the undefined `submitOffer` function. The active free-agent signing flow uses `signPlayer` and remains in place. TypeScript syntax was checked; a full Next.js build could not be run because package installation was unavailable in this environment.
