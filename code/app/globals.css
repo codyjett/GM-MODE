@@ -9,3 +9,11 @@
 .trade-side > strong {color:#d6b16c;letter-spacing:.08em;font-size:12px}
 .trade-side select[multiple] {min-height:125px;width:100%;padding:8px;background:#152238;color:#e9edf5;border:1px solid #34445c;border-radius:7px}
 .trade-side select[multiple] option {padding:5px 7px}
+
+/* Clubhouse roster: align nine columns and preserve table layout */
+.roster-data-table{width:100%;min-width:1110px;table-layout:fixed;border-collapse:collapse}
+.roster-data-table .col-active{width:85px}.roster-data-table .col-player{width:205px}.roster-data-table .col-pos{width:65px}.roster-data-table .col-age{width:55px}.roster-data-table .col-rating{width:92px}.roster-data-table .col-performance{width:205px}.roster-data-table .col-salary{width:105px}.roster-data-table .col-contract{width:135px}.roster-data-table .col-actions{width:95px}
+.roster-data-table th,.roster-data-table td{box-sizing:border-box;vertical-align:middle;text-align:left;padding:13px 10px;overflow:hidden;text-overflow:ellipsis}
+.roster-data-table th{white-space:normal;line-height:1.4}.roster-data-table td{white-space:nowrap}
+.roster-data-table .player-cell{display:table-cell}.roster-data-table .player-cell-content{display:flex;align-items:center;gap:9px;min-width:0}.roster-data-table .player-cell-content strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}.roster-data-table .player-icon{flex:none}
+.roster-data-table td:first-child,.roster-data-table th:first-child{text-align:center}.roster-data-table td:first-child input{accent-color:var(--accent);width:16px;height:16px}.roster-data-table td:last-child .reset-btn{padding:8px 5px;white-space:nowrap}.roster-data-table td:nth-child(6){font-size:11px}
