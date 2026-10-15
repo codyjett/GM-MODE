@@ -1,0 +1,2123 @@
+[
+  {
+    "team": "ARI",
+    "name": "Brandon Pfaadt",
+    "key": "brandonpfaadt",
+    "millions": 5.4,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Corbin Burnes",
+    "key": "corbinburnes",
+    "millions": 35.0,
+    "status": "optout"
+  },
+  {
+    "team": "ARI",
+    "name": "Corbin Carroll",
+    "key": "corbincarroll",
+    "millions": 12.625,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Eduardo Rodriguez",
+    "key": "eduardorodriguez",
+    "millions": 19.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Gabriel Moreno",
+    "key": "gabrielmoreno",
+    "millions": 5.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "ARI",
+    "name": "Geraldo Perdomo",
+    "key": "geraldoperdomo",
+    "millions": 9.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Justin Martinez",
+    "key": "justinmartinez",
+    "millions": 3.4,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Ketel Marte",
+    "key": "ketelmarte",
+    "millions": 12.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Lars Nootbaar",
+    "key": "larsnootbaar",
+    "millions": 6.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "ARI",
+    "name": "Merrill Kelly",
+    "key": "merrillkelly",
+    "millions": 22.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ARI",
+    "name": "Michael Soroka",
+    "key": "michaelsoroka",
+    "millions": 10.0,
+    "status": "option"
+  },
+  {
+    "team": "ARI",
+    "name": "Nolan Arenado",
+    "key": "nolanarenado",
+    "millions": 15.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATH",
+    "name": "Brent Rooker",
+    "key": "brentrooker",
+    "millions": 14.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATH",
+    "name": "Jacob Wilson",
+    "key": "jacobwilson",
+    "millions": 2.928571,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATH",
+    "name": "Jeff McNeil",
+    "key": "jeffmcneil",
+    "millions": 15.75,
+    "status": "option"
+  },
+  {
+    "team": "ATH",
+    "name": "Jeffrey Springs",
+    "key": "jeffreysprings",
+    "millions": 15.0,
+    "status": "option"
+  },
+  {
+    "team": "ATH",
+    "name": "Lawrence Butler",
+    "key": "lawrencebutler",
+    "millions": 5.428571,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATH",
+    "name": "Luis Severino",
+    "key": "luisseverino",
+    "millions": 22.0,
+    "status": "option"
+  },
+  {
+    "team": "ATH",
+    "name": "Shea Langeliers",
+    "key": "shealangeliers",
+    "millions": 7.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "ATH",
+    "name": "Tyler Soderstrom",
+    "key": "tylersoderstrom",
+    "millions": 6.428571,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Austin Riley",
+    "key": "austinriley",
+    "millions": 22.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Chris Sale",
+    "key": "chrissale",
+    "millions": 27.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Dylan Lee",
+    "key": "dylanlee",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "ATL",
+    "name": "Jurickson Profar",
+    "key": "juricksonprofar",
+    "millions": 15.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Matt Olson",
+    "key": "mattolson",
+    "millions": 22.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Michael Harris II",
+    "key": "michaelharrisii",
+    "millions": 9.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Mike Yastrzemski",
+    "key": "mikeyastrzemski",
+    "millions": 10.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Ozzie Albies",
+    "key": "ozziealbies",
+    "millions": 7.0,
+    "status": "option"
+  },
+  {
+    "team": "ATL",
+    "name": "Reynaldo Lopez",
+    "key": "reynaldolopez",
+    "millions": 8.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Robert Suarez",
+    "key": "robertsuarez",
+    "millions": 16.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Ronald Acuna Jr",
+    "key": "ronaldacunajr",
+    "millions": 17.0,
+    "status": "option"
+  },
+  {
+    "team": "ATL",
+    "name": "Sean Murphy",
+    "key": "seanmurphy",
+    "millions": 15.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "ATL",
+    "name": "Spencer Strider",
+    "key": "spencerstrider",
+    "millions": 22.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Gunnar Henderson",
+    "key": "gunnarhenderson",
+    "millions": 10.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "BAL",
+    "name": "Kyle Bradish",
+    "key": "kylebradish",
+    "millions": 10.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Leody Taveras",
+    "key": "leodytaveras",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "BAL",
+    "name": "Luis Robert Jr",
+    "key": "luisrobertjr",
+    "millions": 20.0,
+    "status": "option"
+  },
+  {
+    "team": "BAL",
+    "name": "Pete Alonso",
+    "key": "petealonso",
+    "millions": 33.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Ryan Helsley",
+    "key": "ryanhelsley",
+    "millions": 14.0,
+    "status": "option"
+  },
+  {
+    "team": "BAL",
+    "name": "Ryan Mountcastle",
+    "key": "ryanmountcastle",
+    "millions": 7.5,
+    "status": "option"
+  },
+  {
+    "team": "BAL",
+    "name": "Samuel Basallo",
+    "key": "samuelbasallo",
+    "millions": 1.625,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Shane Baz",
+    "key": "shanebaz",
+    "millions": 7.8,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Tyler O'Neill",
+    "key": "tyleroneill",
+    "millions": 16.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Yennier Cano",
+    "key": "yenniercano",
+    "millions": 2.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BAL",
+    "name": "Zach Eflin",
+    "key": "zacheflin",
+    "millions": 25.0,
+    "status": "option"
+  },
+  {
+    "team": "BOS",
+    "name": "Adley Rutschman",
+    "key": "adleyrutschman",
+    "millions": 8.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "BOS",
+    "name": "Aroldis Chapman",
+    "key": "aroldischapman",
+    "millions": 13.0,
+    "status": "option"
+  },
+  {
+    "team": "BOS",
+    "name": "Brayan Bello",
+    "key": "brayanbello",
+    "millions": 8.666667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Ceddanne Rafaela",
+    "key": "ceddannerafaela",
+    "millions": 3.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Garrett Crochet",
+    "key": "garrettcrochet",
+    "millions": 28.666667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Garrett Whitlock",
+    "key": "garrettwhitlock",
+    "millions": 8.25,
+    "status": "option"
+  },
+  {
+    "team": "BOS",
+    "name": "Jarren Duran",
+    "key": "jarrenduran",
+    "millions": 10.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "BOS",
+    "name": "Kristian Campbell",
+    "key": "kristiancampbell",
+    "millions": 3.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Masataka Yoshida",
+    "key": "masatakayoshida",
+    "millions": 18.6,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Ranger Suarez",
+    "key": "rangersuarez",
+    "millions": 15.6,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Roman Anthony",
+    "key": "romananthony",
+    "millions": 4.625,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Sonny Gray",
+    "key": "sonnygray",
+    "millions": 30.0,
+    "status": "option"
+  },
+  {
+    "team": "BOS",
+    "name": "Trevor Story",
+    "key": "trevorstory",
+    "millions": 25.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Willson Contreras",
+    "key": "willsoncontreras",
+    "millions": 17.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "BOS",
+    "name": "Wilyer Abreu",
+    "key": "wilyerabreu",
+    "millions": 5.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHC",
+    "name": "Alex Bregman",
+    "key": "alexbregman",
+    "millions": 35.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHC",
+    "name": "Caleb Thielbar",
+    "key": "calebthielbar",
+    "millions": 6.0,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Carson Kelly",
+    "key": "carsonkelly",
+    "millions": 7.5,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Clay Holmes",
+    "key": "clayholmes",
+    "millions": 12.0,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Colin Rea",
+    "key": "colinrea",
+    "millions": 7.5,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Dansby Swanson",
+    "key": "dansbyswanson",
+    "millions": 28.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHC",
+    "name": "Edward Cabrera",
+    "key": "edwardcabrera",
+    "millions": 5.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHC",
+    "name": "Hunter Harvey",
+    "key": "hunterharvey",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Jacob Webb",
+    "key": "jacobwebb",
+    "millions": 2.5,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Javier Assad",
+    "key": "javierassad",
+    "millions": 3.3,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Justin Steele",
+    "key": "justinsteele",
+    "millions": 6.775,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHC",
+    "name": "Matthew Boyd",
+    "key": "matthewboyd",
+    "millions": 15.0,
+    "status": "option"
+  },
+  {
+    "team": "CHC",
+    "name": "Michael Busch",
+    "key": "michaelbusch",
+    "millions": 4.7,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHC",
+    "name": "Miguel Amaya",
+    "key": "miguelamaya",
+    "millions": 4.7,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHC",
+    "name": "Nico Hoerner",
+    "key": "nicohoerner",
+    "millions": 23.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHC",
+    "name": "Pete Crow-Armstrong",
+    "key": "petecrowarmstrong",
+    "millions": 10.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHC",
+    "name": "Phil Maton",
+    "key": "philmaton",
+    "millions": 6.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHC",
+    "name": "Shelby Miller",
+    "key": "shelbymiller",
+    "millions": 1.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHW",
+    "name": "Andrew Benintendi",
+    "key": "andrewbenintendi",
+    "millions": 15.1,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHW",
+    "name": "Anthony Kay",
+    "key": "anthonykay",
+    "millions": 5.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHW",
+    "name": "Jordan Hicks",
+    "key": "jordanhicks",
+    "millions": 12.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHW",
+    "name": "Luis Castillo",
+    "key": "luiscastillo",
+    "millions": 24.15,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CHW",
+    "name": "Miguel Vargas",
+    "key": "miguelvargas",
+    "millions": 6.2,
+    "status": "arbitration"
+  },
+  {
+    "team": "CHW",
+    "name": "Munetaka Murakami",
+    "key": "munetakamurakami",
+    "millions": 17.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CIN",
+    "name": "Andrew Abbott",
+    "key": "andrewabbott",
+    "millions": 5.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "CIN",
+    "name": "Chase Burns",
+    "key": "chaseburns",
+    "millions": 2.785714,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CIN",
+    "name": "Elly De La Cruz",
+    "key": "ellydelacruz",
+    "millions": 6.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "CIN",
+    "name": "Emilio Pagan",
+    "key": "emiliopagan",
+    "millions": 10.0,
+    "status": "option"
+  },
+  {
+    "team": "CIN",
+    "name": "Eugenio Suarez",
+    "key": "eugeniosuarez",
+    "millions": 16.0,
+    "status": "option"
+  },
+  {
+    "team": "CIN",
+    "name": "Hunter Greene",
+    "key": "huntergreene",
+    "millions": 15.333333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CIN",
+    "name": "Jose Trevino",
+    "key": "josetrevino",
+    "millions": 5.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CIN",
+    "name": "Ke'Bryan Hayes",
+    "key": "kebryanhayes",
+    "millions": 7.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CIN",
+    "name": "Nick Lodolo",
+    "key": "nicklodolo",
+    "millions": 6.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "CIN",
+    "name": "Pierce Johnson",
+    "key": "piercejohnson",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "CIN",
+    "name": "Spencer Steer",
+    "key": "spencersteer",
+    "millions": 4.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "CLE",
+    "name": "Gavin Williams",
+    "key": "gavinwilliams",
+    "millions": 6.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "CLE",
+    "name": "Jo Adell",
+    "key": "joadell",
+    "millions": 7.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "CLE",
+    "name": "Jose Ramirez",
+    "key": "joseramirez",
+    "millions": 25.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "CLE",
+    "name": "Shawn Armstrong",
+    "key": "shawnarmstrong",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "CLE",
+    "name": "Steven Kwan",
+    "key": "stevenkwan",
+    "millions": 10.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "CLE",
+    "name": "Tanner Bibee",
+    "key": "tannerbibee",
+    "millions": 7.4,
+    "status": "guaranteed"
+  },
+  {
+    "team": "COL",
+    "name": "Ezequiel Tovar",
+    "key": "ezequieltovar",
+    "millions": 8.214286,
+    "status": "guaranteed"
+  },
+  {
+    "team": "COL",
+    "name": "Kris Bryant",
+    "key": "krisbryant",
+    "millions": 27.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "COL",
+    "name": "Kyle Freeland",
+    "key": "kylefreeland",
+    "millions": 17.0,
+    "status": "option"
+  },
+  {
+    "team": "COL",
+    "name": "Mickey Moniak",
+    "key": "mickeymoniak",
+    "millions": 7.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "COL",
+    "name": "Willi Castro",
+    "key": "willicastro",
+    "millions": 7.3,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Colt Keith",
+    "key": "coltkeith",
+    "millions": 4.333333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Drew Anderson",
+    "key": "drewanderson",
+    "millions": 10.0,
+    "status": "option"
+  },
+  {
+    "team": "DET",
+    "name": "Framber Valdez",
+    "key": "frambervaldez",
+    "millions": 47.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Javier Baez",
+    "key": "javierbaez",
+    "millions": 24.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Kenley Jansen",
+    "key": "kenleyjansen",
+    "millions": 12.0,
+    "status": "option"
+  },
+  {
+    "team": "DET",
+    "name": "Kerry Carpenter",
+    "key": "kerrycarpenter",
+    "millions": 4.25,
+    "status": "arbitration"
+  },
+  {
+    "team": "DET",
+    "name": "Kevin McGonigle",
+    "key": "kevinmcgonigle",
+    "millions": 2.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Kyle Finnegan",
+    "key": "kylefinnegan",
+    "millions": 8.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "DET",
+    "name": "Riley Greene",
+    "key": "rileygreene",
+    "millions": 8.9,
+    "status": "arbitration"
+  },
+  {
+    "team": "DET",
+    "name": "Spencer Torkelson",
+    "key": "spencertorkelson",
+    "millions": 7.9,
+    "status": "arbitration"
+  },
+  {
+    "team": "DET",
+    "name": "Zach McKinstry",
+    "key": "zachmckinstry",
+    "millions": 4.25,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Carlos Correa",
+    "key": "carloscorrea",
+    "millions": 31.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "HOU",
+    "name": "Christian Walker",
+    "key": "christianwalker",
+    "millions": 20.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "HOU",
+    "name": "Cristian Javier",
+    "key": "cristianjavier",
+    "millions": 21.4,
+    "status": "guaranteed"
+  },
+  {
+    "team": "HOU",
+    "name": "Hunter Brown",
+    "key": "hunterbrown",
+    "millions": 10.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Isaac Paredes",
+    "key": "isaacparedes",
+    "millions": 13.35,
+    "status": "option"
+  },
+  {
+    "team": "HOU",
+    "name": "Jake Meyers",
+    "key": "jakemeyers",
+    "millions": 5.3,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Jeremy Pena",
+    "key": "jeremypena",
+    "millions": 17.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Jose Altuve",
+    "key": "josealtuve",
+    "millions": 33.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "HOU",
+    "name": "Josh Hader",
+    "key": "joshhader",
+    "millions": 19.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "HOU",
+    "name": "Peter Lambert",
+    "key": "peterlambert",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Tatsuya Imai",
+    "key": "tatsuyaimai",
+    "millions": 18.0,
+    "status": "option"
+  },
+  {
+    "team": "HOU",
+    "name": "Yainer Diaz",
+    "key": "yainerdiaz",
+    "millions": 5.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "HOU",
+    "name": "Yordan Alvarez",
+    "key": "yordanalvarez",
+    "millions": 26.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Bobby Witt Jr",
+    "key": "bobbywittjr",
+    "millions": 19.707071,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Carlos Estevez",
+    "key": "carlosestevez",
+    "millions": 13.0,
+    "status": "option"
+  },
+  {
+    "team": "KC",
+    "name": "Cole Ragans",
+    "key": "coleragans",
+    "millions": 7.583333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Maikel Garcia",
+    "key": "maikelgarcia",
+    "millions": 7.2,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Michael Wacha",
+    "key": "michaelwacha",
+    "millions": 14.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Salvador Perez",
+    "key": "salvadorperez",
+    "millions": 12.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Seth Lugo",
+    "key": "sethlugo",
+    "millions": 21.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "KC",
+    "name": "Tony Gonsolin",
+    "key": "tonygonsolin",
+    "millions": 2.5,
+    "status": "option"
+  },
+  {
+    "team": "KC",
+    "name": "Vinnie Pasquantino",
+    "key": "vinniepasquantino",
+    "millions": 6.9,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAA",
+    "name": "Mike Trout",
+    "key": "miketrout",
+    "millions": 37.116667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAA",
+    "name": "Reid Detmers",
+    "key": "reiddetmers",
+    "millions": 5.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "LAA",
+    "name": "Robert Stephenson",
+    "key": "robertstephenson",
+    "millions": 2.5,
+    "status": "option"
+  },
+  {
+    "team": "LAA",
+    "name": "Yusei Kikuchi",
+    "key": "yuseikikuchi",
+    "millions": 21.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAA",
+    "name": "Zach Neto",
+    "key": "zachneto",
+    "millions": 6.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "LAD",
+    "name": "Blake Snell",
+    "key": "blakesnell",
+    "millions": 36.4,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Edwin Diaz",
+    "key": "edwindiaz",
+    "millions": 26.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Freddie Freeman",
+    "key": "freddiefreeman",
+    "millions": 27.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Kyle Tucker",
+    "key": "kyletucker",
+    "millions": 87.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Mookie Betts",
+    "key": "mookiebetts",
+    "millions": 30.416667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Shohei Ohtani",
+    "key": "shoheiohtani",
+    "millions": 70.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Teoscar Hernandez",
+    "key": "teoscarhernandez",
+    "millions": 22.166667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Will Smith",
+    "key": "willsmith",
+    "millions": 16.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "LAD",
+    "name": "Yoshinobu Yamamoto",
+    "key": "yoshinobuyamamoto",
+    "millions": 30.166667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIA",
+    "name": "Anthony Bender",
+    "key": "anthonybender",
+    "millions": 4.75,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIA",
+    "name": "Max Meyer",
+    "key": "maxmeyer",
+    "millions": 5.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIA",
+    "name": "Sandy Alcantara",
+    "key": "sandyalcantara",
+    "millions": 21.0,
+    "status": "option"
+  },
+  {
+    "team": "MIA",
+    "name": "Xavier Edwards",
+    "key": "xavieredwards",
+    "millions": 4.3,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIL",
+    "name": "Aaron Ashby",
+    "key": "aaronashby",
+    "millions": 7.7,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIL",
+    "name": "Andrew Vaughn",
+    "key": "andrewvaughn",
+    "millions": 8.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIL",
+    "name": "Antonio Senzatela",
+    "key": "antoniosenzatela",
+    "millions": 14.0,
+    "status": "option"
+  },
+  {
+    "team": "MIL",
+    "name": "Brice Turang",
+    "key": "briceturang",
+    "millions": 9.9,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIL",
+    "name": "Christian Yelich",
+    "key": "christianyelich",
+    "millions": 26.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIL",
+    "name": "Cooper Pratt",
+    "key": "cooperpratt",
+    "millions": 3.875,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIL",
+    "name": "Dustin May",
+    "key": "dustinmay",
+    "millions": 20.0,
+    "status": "option"
+  },
+  {
+    "team": "MIL",
+    "name": "Jackson Chourio",
+    "key": "jacksonchourio",
+    "millions": 8.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIL",
+    "name": "Luis Lara",
+    "key": "luislara",
+    "millions": 2.285714,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIL",
+    "name": "Trevor Megill",
+    "key": "trevormegill",
+    "millions": 7.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIL",
+    "name": "William Contreras",
+    "key": "williamcontreras",
+    "millions": 14.5,
+    "status": "option"
+  },
+  {
+    "team": "MIN",
+    "name": "Bailey Ober",
+    "key": "baileyober",
+    "millions": 6.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIN",
+    "name": "Byron Buxton",
+    "key": "byronbuxton",
+    "millions": 15.142857,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIN",
+    "name": "Dean Kremer",
+    "key": "deankremer",
+    "millions": 8.9,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIN",
+    "name": "Jeff Hoffman",
+    "key": "jeffhoffman",
+    "millions": 12.666667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIN",
+    "name": "Joe Ryan",
+    "key": "joeryan",
+    "millions": 13.0,
+    "status": "option"
+  },
+  {
+    "team": "MIN",
+    "name": "Josh Bell",
+    "key": "joshbell",
+    "millions": 10.0,
+    "status": "option"
+  },
+  {
+    "team": "MIN",
+    "name": "Pablo Lopez",
+    "key": "pablolopez",
+    "millions": 21.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "MIN",
+    "name": "Royce Lewis",
+    "key": "roycelewis",
+    "millions": 5.7,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIN",
+    "name": "Tanner Houck",
+    "key": "tannerhouck",
+    "millions": 4.15,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIN",
+    "name": "Trevor Larnach",
+    "key": "trevorlarnach",
+    "millions": 6.25,
+    "status": "arbitration"
+  },
+  {
+    "team": "MIN",
+    "name": "Victor Caratini",
+    "key": "victorcaratini",
+    "millions": 6.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Bo Bichette",
+    "key": "bobichette",
+    "millions": 42.0,
+    "status": "option"
+  },
+  {
+    "team": "NYM",
+    "name": "Devin Williams",
+    "key": "devinwilliams",
+    "millions": 17.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Francisco Alvarez",
+    "key": "franciscoalvarez",
+    "millions": 5.2,
+    "status": "arbitration"
+  },
+  {
+    "team": "NYM",
+    "name": "Francisco Lindor",
+    "key": "franciscolindor",
+    "millions": 34.1,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Jorge Polanco",
+    "key": "jorgepolanco",
+    "millions": 23.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Juan Soto",
+    "key": "juansoto",
+    "millions": 57.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Kodai Senga",
+    "key": "kodaisenga",
+    "millions": 14.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Luis Torrens",
+    "key": "luistorrens",
+    "millions": 5.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Marcus Semien",
+    "key": "marcussemien",
+    "millions": 26.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYM",
+    "name": "Sean Manaea",
+    "key": "seanmanaea",
+    "millions": 25.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Aaron Judge",
+    "key": "aaronjudge",
+    "millions": 40.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Anthony Volpe",
+    "key": "anthonyvolpe",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "NYY",
+    "name": "Carlos Rodon",
+    "key": "carlosrodon",
+    "millions": 27.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Clarke Schmidt",
+    "key": "clarkeschmidt",
+    "millions": 9.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "NYY",
+    "name": "Cody Bellinger",
+    "key": "codybellinger",
+    "millions": 42.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Gerrit Cole",
+    "key": "gerritcole",
+    "millions": 36.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Giancarlo Stanton",
+    "key": "giancarlostanton",
+    "millions": 25.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Luis Garcia",
+    "key": "luisgarcia",
+    "millions": 11.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "NYY",
+    "name": "Luis Gil",
+    "key": "luisgil",
+    "millions": 5.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "NYY",
+    "name": "Max Fried",
+    "key": "maxfried",
+    "millions": 31.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Ryan McMahon",
+    "key": "ryanmcmahon",
+    "millions": 16.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "NYY",
+    "name": "Ryan Weathers",
+    "key": "ryanweathers",
+    "millions": 9.9,
+    "status": "arbitration"
+  },
+  {
+    "team": "PHI",
+    "name": "Aaron Nola",
+    "key": "aaronnola",
+    "millions": 24.571429,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Brad Keller",
+    "key": "bradkeller",
+    "millions": 13.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Brandon Marsh",
+    "key": "brandonmarsh",
+    "millions": 11.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "PHI",
+    "name": "Bryce Harper",
+    "key": "bryceharper",
+    "millions": 27.538462,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Bryson Stott",
+    "key": "brysonstott",
+    "millions": 12.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "PHI",
+    "name": "Cristopher Sanchez",
+    "key": "cristophersanchez",
+    "millions": 7.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "JT Realmuto",
+    "key": "jtrealmuto",
+    "millions": 15.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Jesus Luzardo",
+    "key": "jesusluzardo",
+    "millions": 27.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Jhoan Duran",
+    "key": "jhoanduran",
+    "millions": 11.4,
+    "status": "arbitration"
+  },
+  {
+    "team": "PHI",
+    "name": "Kyle Schwarber",
+    "key": "kyleschwarber",
+    "millions": 33.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Trea Turner",
+    "key": "treaturner",
+    "millions": 27.272727,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PHI",
+    "name": "Zack Wheeler",
+    "key": "zackwheeler",
+    "millions": 42.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PIT",
+    "name": "Bryan Reynolds",
+    "key": "bryanreynolds",
+    "millions": 15.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PIT",
+    "name": "Jared Jones",
+    "key": "jaredjones",
+    "millions": 5.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "PIT",
+    "name": "Konnor Griffin",
+    "key": "konnorgriffin",
+    "millions": 3.333333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PIT",
+    "name": "Luke Weaver",
+    "key": "lukeweaver",
+    "millions": 12.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PIT",
+    "name": "Mitch Keller",
+    "key": "mitchkeller",
+    "millions": 18.4115,
+    "status": "guaranteed"
+  },
+  {
+    "team": "PIT",
+    "name": "Oneil Cruz",
+    "key": "oneilcruz",
+    "millions": 6.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "PIT",
+    "name": "Paul Skenes",
+    "key": "paulskenes",
+    "millions": 8.2,
+    "status": "arbitration"
+  },
+  {
+    "team": "PIT",
+    "name": "Ryan O'Hearn",
+    "key": "ryanohearn",
+    "millions": 15.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Fernando Tatis Jr",
+    "key": "fernandotatisjr",
+    "millions": 25.714286,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Gavin Sheets",
+    "key": "gavinsheets",
+    "millions": 5.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "SD",
+    "name": "Griffin Canning",
+    "key": "griffincanning",
+    "millions": 5.0,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Jackson Merrill",
+    "key": "jacksonmerrill",
+    "millions": 7.111111,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Jake Cronenworth",
+    "key": "jakecronenworth",
+    "millions": 12.285714,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Joe Musgrove",
+    "key": "joemusgrove",
+    "millions": 20.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Kyle Hart",
+    "key": "kylehart",
+    "millions": 2.5,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Lucas Giolito",
+    "key": "lucasgiolito",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Manny Machado",
+    "key": "mannymachado",
+    "millions": 39.090909,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Mason Miller",
+    "key": "masonmiller",
+    "millions": 7.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "SD",
+    "name": "Michael King",
+    "key": "michaelking",
+    "millions": 28.0,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Miguel Andujar",
+    "key": "miguelandujar",
+    "millions": 8.5,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Nick Pivetta",
+    "key": "nickpivetta",
+    "millions": 14.0,
+    "status": "option"
+  },
+  {
+    "team": "SD",
+    "name": "Sung-Mun Song",
+    "key": "sungmunsong",
+    "millions": 3.333333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Wandy Peralta",
+    "key": "wandyperalta",
+    "millions": 4.45,
+    "status": "optout"
+  },
+  {
+    "team": "SD",
+    "name": "Xander Bogaerts",
+    "key": "xanderbogaerts",
+    "millions": 25.454545,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SD",
+    "name": "Yuki Matsui",
+    "key": "yukimatsui",
+    "millions": 6.5,
+    "status": "optout"
+  },
+  {
+    "team": "SEA",
+    "name": "Andres Munoz",
+    "key": "andresmunoz",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "SEA",
+    "name": "Brendan Donovan",
+    "key": "brendandonovan",
+    "millions": 6.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "SEA",
+    "name": "Bryan Woo",
+    "key": "bryanwoo",
+    "millions": 4.25,
+    "status": "arbitration"
+  },
+  {
+    "team": "SEA",
+    "name": "Bryce Miller",
+    "key": "brycemiller",
+    "millions": 6.075,
+    "status": "option"
+  },
+  {
+    "team": "SEA",
+    "name": "Cal Raleigh",
+    "key": "calraleigh",
+    "millions": 13.666667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SEA",
+    "name": "Colt Emerson",
+    "key": "coltemerson",
+    "millions": 3.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SEA",
+    "name": "Gabe Speier",
+    "key": "gabespeier",
+    "millions": 5.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "SEA",
+    "name": "George Kirby",
+    "key": "georgekirby",
+    "millions": 9.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "SEA",
+    "name": "Josh Naylor",
+    "key": "joshnaylor",
+    "millions": 17.3,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SEA",
+    "name": "Julio Rodriguez",
+    "key": "juliorodriguez",
+    "millions": 20.185714,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SEA",
+    "name": "Logan Gilbert",
+    "key": "logangilbert",
+    "millions": 15.0,
+    "status": "arbitration"
+  },
+  {
+    "team": "SEA",
+    "name": "Seranthony Dominguez",
+    "key": "seranthonydominguez",
+    "millions": 10.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SEA",
+    "name": "Victor Robles",
+    "key": "victorrobles",
+    "millions": 9.0,
+    "status": "option"
+  },
+  {
+    "team": "SF",
+    "name": "Adrian Houser",
+    "key": "adrianhouser",
+    "millions": 11.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Camilo Doval",
+    "key": "camilodoval",
+    "millions": 6.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "SF",
+    "name": "Harrison Bader",
+    "key": "harrisonbader",
+    "millions": 13.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Jung Hoo Lee",
+    "key": "junghoolee",
+    "millions": 22.833333,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Logan Webb",
+    "key": "loganwebb",
+    "millions": 23.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Matt Chapman",
+    "key": "mattchapman",
+    "millions": 25.166667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Rafael Devers",
+    "key": "rafaeldevers",
+    "millions": 33.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "SF",
+    "name": "Rowan Wick",
+    "key": "rowanwick",
+    "millions": 0.8,
+    "status": "option"
+  },
+  {
+    "team": "SF",
+    "name": "Willy Adames",
+    "key": "willyadames",
+    "millions": 31.142857,
+    "status": "guaranteed"
+  },
+  {
+    "team": "STL",
+    "name": "Alec Burleson",
+    "key": "alecburleson",
+    "millions": 7.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "STL",
+    "name": "Andre Pallante",
+    "key": "andrepallante",
+    "millions": 7.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "STL",
+    "name": "Ivan Herrera",
+    "key": "ivanherrera",
+    "millions": 4.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "STL",
+    "name": "JJ Wetherholt",
+    "key": "jjwetherholt",
+    "millions": 2.75,
+    "status": "guaranteed"
+  },
+  {
+    "team": "STL",
+    "name": "Ryne Stanek",
+    "key": "rynestanek",
+    "millions": 6.0,
+    "status": "option"
+  },
+  {
+    "team": "TB",
+    "name": "Bryan Baker",
+    "key": "bryanbaker",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "TB",
+    "name": "Cedric Mullins",
+    "key": "cedricmullins",
+    "millions": 10.0,
+    "status": "option"
+  },
+  {
+    "team": "TB",
+    "name": "Drew Rasmussen",
+    "key": "drewrasmussen",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "TB",
+    "name": "Griffin Jax",
+    "key": "griffinjax",
+    "millions": 6.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "TB",
+    "name": "Jonathan Aranda",
+    "key": "jonathanaranda",
+    "millions": 4.5,
+    "status": "arbitration"
+  },
+  {
+    "team": "TB",
+    "name": "Nick Martinez",
+    "key": "nickmartinez",
+    "millions": 20.0,
+    "status": "option"
+  },
+  {
+    "team": "TB",
+    "name": "Shane McClanahan",
+    "key": "shanemcclanahan",
+    "millions": 7.2,
+    "status": "arbitration"
+  },
+  {
+    "team": "TB",
+    "name": "Steven Matz",
+    "key": "stevenmatz",
+    "millions": 7.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TB",
+    "name": "Taylor Walls",
+    "key": "taylorwalls",
+    "millions": 3.1,
+    "status": "option"
+  },
+  {
+    "team": "TB",
+    "name": "Tyler Wells",
+    "key": "tylerwells",
+    "millions": 5.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "TB",
+    "name": "Yandy Diaz",
+    "key": "yandydiaz",
+    "millions": 13.0,
+    "status": "option"
+  },
+  {
+    "team": "TEX",
+    "name": "Brandon Nimmo",
+    "key": "brandonnimmo",
+    "millions": 20.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TEX",
+    "name": "Corey Seager",
+    "key": "coreyseager",
+    "millions": 31.5,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TEX",
+    "name": "Danny Jansen",
+    "key": "dannyjansen",
+    "millions": 8.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TEX",
+    "name": "Jacob deGrom",
+    "key": "jacobdegrom",
+    "millions": 37.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TEX",
+    "name": "Jake Burger",
+    "key": "jakeburger",
+    "millions": 5.7,
+    "status": "arbitration"
+  },
+  {
+    "team": "TEX",
+    "name": "Jakob Junis",
+    "key": "jakobjunis",
+    "millions": 5.0,
+    "status": "option"
+  },
+  {
+    "team": "TEX",
+    "name": "Joc Pederson",
+    "key": "jocpederson",
+    "millions": 18.5,
+    "status": "option"
+  },
+  {
+    "team": "TEX",
+    "name": "Josh Jung",
+    "key": "joshjung",
+    "millions": 5.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "TEX",
+    "name": "Kyle Higashioka",
+    "key": "kylehigashioka",
+    "millions": 7.0,
+    "status": "option"
+  },
+  {
+    "team": "TEX",
+    "name": "MacKenzie Gore",
+    "key": "mackenziegore",
+    "millions": 9.8,
+    "status": "arbitration"
+  },
+  {
+    "team": "TEX",
+    "name": "Nathan Eovaldi",
+    "key": "nathaneovaldi",
+    "millions": 24.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Alejandro Kirk",
+    "key": "alejandrokirk",
+    "millions": 12.325,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Andres Gimenez",
+    "key": "andresgimenez",
+    "millions": 23.571429,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Anthony Santander",
+    "key": "anthonysantander",
+    "millions": 21.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Cody Ponce",
+    "key": "codyponce",
+    "millions": 12.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Dylan Cease",
+    "key": "dylancease",
+    "millions": 33.285714,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Ernie Clement",
+    "key": "ernieclement",
+    "millions": 7.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "TOR",
+    "name": "Jose Berrios",
+    "key": "joseberrios",
+    "millions": 24.714286,
+    "status": "optout"
+  },
+  {
+    "team": "TOR",
+    "name": "Jose Soriano",
+    "key": "josesoriano",
+    "millions": 6.6,
+    "status": "arbitration"
+  },
+  {
+    "team": "TOR",
+    "name": "Kazuma Okamoto",
+    "key": "kazumaokamoto",
+    "millions": 17.25,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Myles Straw",
+    "key": "mylesstraw",
+    "millions": 8.0,
+    "status": "option"
+  },
+  {
+    "team": "TOR",
+    "name": "Tyler Rogers",
+    "key": "tylerrogers",
+    "millions": 13.666667,
+    "status": "guaranteed"
+  },
+  {
+    "team": "TOR",
+    "name": "Vladimir Guerrero Jr",
+    "key": "vladimirguerrerojr",
+    "millions": 40.214286,
+    "status": "guaranteed"
+  },
+  {
+    "team": "WSH",
+    "name": "CJ Abrams",
+    "key": "cjabrams",
+    "millions": 11.1,
+    "status": "arbitration"
+  },
+  {
+    "team": "WSH",
+    "name": "Cade Cavalli",
+    "key": "cadecavalli",
+    "millions": 5.0,
+    "status": "guaranteed"
+  },
+  {
+    "team": "WSH",
+    "name": "Keibert Ruiz",
+    "key": "keibertruiz",
+    "millions": 5.375,
+    "status": "guaranteed"
+  },
+  {
+    "team": "WSH",
+    "name": "Zack Littell",
+    "key": "zacklittell",
+    "millions": 12.0,
+    "status": "option"
+  }
+]
