@@ -13,4 +13,4 @@ export const freeAgents:Player[]=Array.from({length:14},(_,i)=>({id:`FA-${i}`,na
 export const money=(n:number)=>`$${n.toFixed(1)}M`;
 export const teamName=(id:string)=>teams.find(t=>t[0]===id)?.[1]??id;
 export const payroll=(roster:Player[])=>roster.reduce((sum,p)=>sum+p.salary,0);
-export const startingSave=(team:string):Save=>({team,budget:Math.max(205,Math.ceil((payroll(makeRoster(team))+35)/5)*5),roster:makeRoster(team),offers:[],trades:[]});
+export const startingSave=(team:string):Save=>({team,budget:0,roster:[],offers:[],trades:[]});
