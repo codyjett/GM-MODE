@@ -9,7 +9,7 @@ function hash(s:string){let h=2166136261;for(const c of s){h=Math.imul(h^c.charC
 function rng(seed:number){let a=seed>>>0;return ()=>{a=(a+0x6D2B79F5)>>>0;let t=Math.imul(a^(a>>>15),1|a);t^=t+Math.imul(t^(t>>>7),61|t);return ((t^(t>>>14))>>>0)/4294967296}}
 const clamp=(n:number,lo:number,hi:number)=>Math.max(lo,Math.min(hi,n));
 // Transparent gameplay estimates, NOT official WAR, ratings, projections or odds.
-export function playerImpact(p:Player){const identity=(hash(p.id+'|'+p.name)%1000)/1000;const pos=p.position==='SP'?0.25:p.position==='RP'?-.35:0;return 0.35+identity*1.4+pos}
+export function playerImpact(p:Player){if(p.ratingSource&&p.ovr>0)return Math.max(0.1,Math.min(3.4,0.65+(p.ovr-55)*0.055));const identity=(hash(p.id+'|'+p.name)%1000)/1000;const pos=p.position==='SP'?0.25:p.position==='RP'?-.35:0;return 0.35+identity*1.4+pos}
 function strength(code:string,save:Save,salaries:Record<string,number>){const base=clamp(0.43+(hash(code+'-baseline')%180)/1000,0.42,0.62);if(code!==save.team)return base;const roster=save.roster;const impact=roster.reduce((n,p)=>n+playerImpact(p),0);const avg=roster.length?impact/roster.length:0.9;const spend=roster.reduce((n,p)=>n+(salaries[p.id]??p.salary??0),0);return clamp(base+(avg-1.1)*0.11+(roster.length-26)*0.001+Math.min(spend,300)*0.000045,0.34,0.70)}
 function initStandings():Standing[]{return codes.map(team=>({team,w:0,l:0,rs:0,ra:0}))}
 export function initialSeason(team:string):Season{return {phase:'offseason',year:2027,seed:hash(team+'-gm-mode-2027'),standings:initStandings(),series:[],baseline:0.48+(hash(team+'-baseline')%130)/1000,notes:[]}}

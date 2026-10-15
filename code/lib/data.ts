@@ -1,4 +1,4 @@
-export type Player={id:string;name:string;position:string;age:number;ovr:number;salary:number;years:number;team:string;war:number};
+export type Player={id:string;name:string;position:string;age:number;ovr:number;salary:number;years:number;team:string;war:number;ratingSource?:string;statSummary?:string;statSeason?:number};
 export type Prospect={id:string;name:string;position:string;level:string;team:string;organization:string};
 export type Offer={id:string;playerId:string;playerName:string;years:number;aav:number;status:'Accepted'|'Rejected';reason:string};
 export type Trade={id:string;target:string;sent:string;status:'Accepted'|'Rejected';reason:string;sentProspects?:string[];receivedProspects?:string[]};
