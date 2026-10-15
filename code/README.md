@@ -17,3 +17,13 @@ Unzip and place the **contents** of `gm-mode` at the repository root. `npm insta
 ## Important
 
 MLB Stats API is an unofficially documented public endpoint; upstream shape/availability may change. Check data rights for commercial usage. LocalStorage saves are browser-specific, not server accounts. 2027 contract options/arbitration are unresolved. This project is a playable simulation, not a verified baseball projection service.
+
+## October 2026 roster / salary consistency patch
+
+- The game starts in the **2027 offseason**, not on the live 2026 MLB roster date. Players listed as **unconditional upcoming 2027 free agents** are therefore excluded from the initial saved roster and shown in Free Agency instead. Alec Bohm is included. Players with unresolved contract options remain on their teams until the option is resolved; the free-agent screen labels those options.
+- Existing browser saves are migrated conservatively: unsigned upcoming free agents are removed from saved starting rosters, while completed simulation signings and recorded incoming trades are preserved. Browser localStorage key remains `gmmode-v2-save`.
+- Guaranteed 2027 salaries for the Phillies are loaded from the October 5, 2026 published payroll breakdown; unknown or arbitration figures are not represented as guaranteed salaries. Annual salary is distinct from CBT AAV.
+- Real-life offseason transactions after the dataset snapshot may change eligibility. The simulator uses an October 2026 snapshot, not a live official transaction ledger.
+- Full production build not verified in this environment because npm registry access is unavailable.
+
+Sources: https://www.mlb.com/news/mlb-free-agents-2026-2027 ; https://www.mlb.com/phillies/news/phillies-avoid-arbitration-2026 ; https://phuturephillies.com/2026/10/05/2026-27-offseason-roster-and-payroll-information/
