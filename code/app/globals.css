@@ -3,3 +3,9 @@
 
 /* Season simulator extends the original navy-and-gold GM MODE design. */
 .season-layout{display:grid;gap:20px}.phase-track{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;margin-bottom:24px}.phase-step{border:1px solid #324359;background:#101c2b;padding:15px;display:flex;align-items:center;gap:10px;color:#7e90a5;font-size:11px}.phase-step span{font:800 20px 'Barlow Condensed';color:#8395a8}.phase-step.done{border-color:#9a7b43;color:#f2d8a1;background:#27261f}.phase-step.done span{color:#e6b45a}.grade-report{display:flex;align-items:center;gap:24px;margin:22px 0}.grade-letter{font:900 110px 'Barlow Condensed';line-height:1;background:#d8aa59;color:#0d1725;padding:10px 34px}.grade-report h2{font-size:45px;margin:8px 0}.grade-report p{color:#b9c7d6;font-size:12px;margin:5px 0}.grade-breakdown{display:grid;gap:0;max-width:580px}.grade-breakdown>div{display:flex;justify-content:space-between;padding:13px;border-bottom:1px solid #32445a;font-size:12px}.grade-breakdown strong{color:#e6b45a}.highlight-row td{background:#293323!important}.btn:disabled{opacity:.4;cursor:not-allowed}@media(max-width:760px){.phase-track{grid-template-columns:repeat(2,1fr)}.grade-letter{font-size:70px;padding:12px 24px}.grade-report{gap:14px}}
+
+/* Farm system and expanded trade builder */
+.trade-side {display:flex;flex-direction:column;gap:12px;padding:14px;border:1px solid rgba(255,255,255,.1);border-radius:10px;background:rgba(255,255,255,.025)}
+.trade-side > strong {color:#d6b16c;letter-spacing:.08em;font-size:12px}
+.trade-side select[multiple] {min-height:125px;width:100%;padding:8px;background:#152238;color:#e9edf5;border:1px solid #34445c;border-radius:7px}
+.trade-side select[multiple] option {padding:5px 7px}

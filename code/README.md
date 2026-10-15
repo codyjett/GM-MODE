@@ -18,3 +18,14 @@ Next.js 15 + React 19. Original dark navy/gold design with a complete playable 2
 `npm install && npm run lint && npm run build`
 
 Deploy repository root to Vercel. MLB API routes require server-side access to the public MLB Stats API.
+
+## 2027 payroll data and dashboard update
+- Removed the entire **SIMULATION MODEL / FRANCHISE NOTES** dashboard card.
+- 2027 published guaranteed annual salaries for nine Phillies players are included, sourced from [Phuture Phillies (Oct 5, 2026)](https://phuturephillies.com/2026/10/05/2026-27-offseason-roster-and-payroll-information/).
+- Salary coverage for the other 29 teams is not complete. Not all 2027 salaries are determinable in October 2026: arbitration, options, non-tenders, and free-agent contracts remain pending. Unknown amounts show N/A rather than a made-up number. User salary overrides remain supported and locally saved.
+- A complete league-wide salary feed requires a licensed or otherwise permitted structured source with annual cash salary, option status, arbitration estimates and source timestamps. This package does not claim complete coverage.
+
+
+## Farm system and prospect trading
+
+Farm System loads **real 2026 MLB-affiliated minor-league active-roster players** through `/api/mlb/prospects?team=PHI`. These are minor-league players, **not a verified top-prospect ranking**. API availability and affiliations can change. The Trade Center supports multiple MLB players and minor-league players on each side; completed sandbox transactions are saved in localStorage. An end-of-season **Farm System Grade** (A–F) is calculated from a clearly game-defined depth/retention heuristic, not independent scouting grades. Opposing organizations' full simulated minor-league state is not persisted; this is not a multi-team franchise database.

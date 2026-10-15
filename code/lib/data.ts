@@ -1,7 +1,8 @@
 export type Player={id:string;name:string;position:string;age:number;ovr:number;salary:number;years:number;team:string;war:number};
+export type Prospect={id:string;name:string;position:string;level:string;team:string;organization:string};
 export type Offer={id:string;playerId:string;playerName:string;years:number;aav:number;status:'Accepted'|'Rejected';reason:string};
-export type Trade={id:string;target:string;sent:string;status:'Accepted'|'Rejected';reason:string};
-export type Save={team:string;budget:number;roster:Player[];offers:Offer[];trades:Trade[]};
+export type Trade={id:string;target:string;sent:string;status:'Accepted'|'Rejected';reason:string;sentProspects?:string[];receivedProspects?:string[]};
+export type Save={team:string;budget:number;roster:Player[];offers:Offer[];trades:Trade[];prospects?:Prospect[];prospectsTradedAway?:number;prospectsAcquired?:number;farmInitialCount?:number};
 export const teams=[
 ['ARI','Arizona Diamondbacks','NL West','#A71930'],['ATL','Atlanta Braves','NL East','#CE1141'],['BAL','Baltimore Orioles','AL East','#DF4601'],['BOS','Boston Red Sox','AL East','#BD3039'],['CHC','Chicago Cubs','NL Central','#0E3386'],['CWS','Chicago White Sox','AL Central','#C4CED4'],['CIN','Cincinnati Reds','NL Central','#C6011F'],['CLE','Cleveland Guardians','AL Central','#E31937'],['COL','Colorado Rockies','NL West','#7B6DA5'],['DET','Detroit Tigers','AL Central','#FA4616'],['HOU','Houston Astros','AL West','#EB6E1F'],['KC','Kansas City Royals','AL Central','#004687'],['LAA','Los Angeles Angels','AL West','#BA0021'],['LAD','Los Angeles Dodgers','NL West','#005A9C'],['MIA','Miami Marlins','NL East','#00A3E0'],['MIL','Milwaukee Brewers','NL Central','#FFC52F'],['MIN','Minnesota Twins','AL Central','#D31145'],['NYM','New York Mets','NL East','#FF5910'],['NYY','New York Yankees','AL East','#7C9BC0'],['ATH','Athletics','AL West','#EFB21E'],['PHI','Philadelphia Phillies','NL East','#E81828'],['PIT','Pittsburgh Pirates','NL Central','#FDB827'],['SD','San Diego Padres','NL West','#FFC425'],['SF','San Francisco Giants','NL West','#FD5A1E'],['SEA','Seattle Mariners','AL West','#00A5B5'],['STL','St. Louis Cardinals','NL Central','#C41E3A'],['TB','Tampa Bay Rays','AL East','#8FBCE6'],['TEX','Texas Rangers','AL West','#003278'],['TOR','Toronto Blue Jays','AL East','#134A8E'],['WSH','Washington Nationals','NL East','#AB0003']
 ] as const;
@@ -13,4 +14,4 @@ export const freeAgents:Player[]=Array.from({length:14},(_,i)=>({id:`FA-${i}`,na
 export const money=(n:number)=>`$${n.toFixed(1)}M`;
 export const teamName=(id:string)=>teams.find(t=>t[0]===id)?.[1]??id;
 export const payroll=(roster:Player[])=>roster.reduce((sum,p)=>sum+p.salary,0);
-export const startingSave=(team:string):Save=>({team,budget:0,roster:[],offers:[],trades:[]});
+export const startingSave=(team:string):Save=>({team,budget:0,roster:[],offers:[],trades:[],prospects:[],prospectsTradedAway:0,prospectsAcquired:0,farmInitialCount:0});
