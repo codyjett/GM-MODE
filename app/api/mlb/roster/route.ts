@@ -5,11 +5,11 @@ export async function GET(req:NextRequest){
  const code=req.nextUrl.searchParams.get('team')??'';
  if(!teams.some(t=>t[0]===code))return NextResponse.json({error:'Unknown team'},{status:400});
  try{
- const url=`https://statsapi.mlb.com/api/v1/teams/${ids[code]}/roster?rosterType=40Man`;
+ const url=`https://statsapi.mlb.com/api/v1/teams/${ids[code]}/roster?rosterType=40Man&hydrate=person`;
  const res=await fetch(url,{next:{revalidate:21600}});
  if(!res.ok)throw new Error(`MLB upstream ${res.status}`);
  const data=await res.json();
- const players=(data.roster??[]).map((r:{person:{id:number;fullName:string};position?:{abbreviation:string};status?:{description:string};jerseyNumber?:string})=>({id:r.person.id,name:r.person.fullName,position:r.position?.abbreviation??'—',status:r.status?.description??'Unknown',number:r.jerseyNumber??'—'}));
+ const players=(data.roster??[]).map((r:{person:{id:number;fullName:string;currentAge?:number;birthDate?:string};position?:{abbreviation:string};status?:{description:string};jerseyNumber?:string})=>({id:r.person.id,name:r.person.fullName,position:r.position?.abbreviation??'—',status:r.status?.description??'Unknown',number:r.jerseyNumber??'—',age:r.person.currentAge??(r.person.birthDate?Math.floor((Date.now()-new Date(r.person.birthDate).getTime())/31557600000):null)}));
  return NextResponse.json({team:code,source:'MLB Stats API',rosterType:'40Man',retrievedAt:new Date().toISOString(),players});
  }catch{return NextResponse.json({error:'Unable to retrieve MLB roster right now. Demo simulator remains available.'},{status:502});}
 }
