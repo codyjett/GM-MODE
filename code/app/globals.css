@@ -44,3 +44,6 @@
 .counteroffer-card p{font-size:13px;color:#e6edf5}
 .counteroffer-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
 .status.rejected{background:#5b2830;color:#ffafb2}
+
+/* Free agency player overall rating */
+.fa-ovr{display:inline-flex;align-items:center;margin-left:9px;padding:3px 8px;border:1px solid rgba(212,175,55,.5);border-radius:5px;color:#e6c66b;background:rgba(212,175,55,.10);font-size:12px;font-weight:800;white-space:nowrap}
