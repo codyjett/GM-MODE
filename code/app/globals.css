@@ -17,3 +17,30 @@
 .roster-data-table th{white-space:normal;line-height:1.4}.roster-data-table td{white-space:nowrap}
 .roster-data-table .player-cell{display:table-cell}.roster-data-table .player-cell-content{display:flex;align-items:center;gap:9px;min-width:0}.roster-data-table .player-cell-content strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}.roster-data-table .player-icon{flex:none}
 .roster-data-table td:first-child,.roster-data-table th:first-child{text-align:center}.roster-data-table td:first-child input{accent-color:var(--accent);width:16px;height:16px}.roster-data-table td:last-child .reset-btn{padding:8px 5px;white-space:nowrap}.roster-data-table td:nth-child(6){font-size:11px}
+
+/* Drag-and-drop Trade Center */
+.trade-layout{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:18px;align-items:start}
+.trade-team-picker{margin-bottom:20px}.trade-team-picker label{font-size:11px;color:#a7b6c5;font-weight:800;letter-spacing:.07em}.trade-team-picker select{display:block;width:100%;max-width:390px;margin-top:9px}
+.trade-board{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.trade-column{background:#0c1724;border:1px solid #2c4054;min-width:0;padding:14px}
+.trade-column-title{padding:3px 3px 13px}.trade-column-title span{color:var(--accent);font-size:10px;letter-spacing:.12em;font-weight:800}.trade-column-title h3{font-size:23px;margin:5px 0 0}
+.trade-dropzone{min-height:150px;border:2px dashed #52647a;background:#142536;padding:12px;transition:background .15s,border-color .15s}
+.trade-dropzone.drag-over{border-color:var(--accent);background:#273442}.trade-drop-title,.trade-pool-head{font-size:10px;font-weight:900;letter-spacing:.08em;display:flex;justify-content:space-between;gap:8px}.trade-drop-title span,.trade-pool-head span{color:var(--accent)}
+.trade-drop-hint{color:#8296ab;font-size:12px;line-height:1.5;text-align:center;margin:28px 0 8px}
+.trade-picked{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#24394b;padding:9px 10px;margin-top:8px}.trade-picked strong,.trade-player strong{font-size:12px;display:block}.trade-picked small,.trade-player small{display:block;font-size:10px;color:#96a9bc;margin-top:3px}.trade-picked button{border:0;background:#394d5f;color:white;display:grid;place-items:center;width:26px;height:26px;flex:none}
+.trade-pool{margin-top:17px}.trade-pool-head{margin-bottom:10px}.trade-search{width:100%;padding:11px;background:#0a1420;border:1px solid #34495e;color:#fff}.trade-filters{display:flex;gap:5px;margin:10px 0}.trade-filters button{flex:1;background:#1b2b3a;border:1px solid #34495e;color:#b2c0ce;font-size:10px;font-weight:800;padding:8px 3px}.trade-filters button.selected{background:#5b492c;border-color:var(--accent);color:#ffdda0}
+.trade-player-list{max-height:360px;overflow-y:auto;border:1px solid #293d50}.trade-player{width:100%;background:#142333;border:0;border-bottom:1px solid #2b3d50;color:#e9f0f7;display:flex;align-items:center;gap:10px;text-align:left;padding:10px;cursor:grab}.trade-player:hover{background:#243b51}.trade-player:active{cursor:grabbing}.trade-player-name{flex:1;min-width:0}.trade-player-name strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.trade-player>svg{color:var(--accent);flex:none}.trade-drag-handle{color:#73879a;font-size:19px}.trade-submit{display:flex;justify-content:space-between;align-items:center;gap:18px;margin-top:20px;flex-wrap:wrap}.trade-submit .helper{max-width:550px;margin:0}.trade-submit .btn{white-space:nowrap}
+@media(max-width:1250px){.trade-layout{grid-template-columns:1fr}}@media(max-width:760px){.trade-board{grid-template-columns:1fr}.trade-player-list{max-height:240px}}
+
+/* Clear trade decisions and actionable opposing-GM counteroffers */
+.trade-feedback{padding:22px;border-radius:4px}
+.trade-rejected{background:#371e25;border:2px solid #f1787e;box-shadow:0 0 0 3px #f1787e12}
+.trade-rejected>strong{color:#ff999d;font-size:15px;letter-spacing:.08em}
+.trade-accepted{background:#18392e;border:2px solid #62c99d}
+.trade-accepted>strong{color:#8de2b8;font-size:15px}
+.trade-counter{background:#263349;border:2px solid #dcb36a}
+.counteroffer-card{margin-top:18px;padding:18px;background:#122334;border:1px solid #d6ad62}
+.counteroffer-card>strong{font-size:13px;color:#e6b45a}
+.counteroffer-card p{font-size:13px;color:#e6edf5}
+.counteroffer-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.status.rejected{background:#5b2830;color:#ffafb2}
