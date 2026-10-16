@@ -53,3 +53,8 @@
 .trade-rating{background:#b8954b;color:#101e2b;font-weight:800;border-radius:3px;padding:2px 6px}
 .trade-salary{color:#d6e4f1;font-weight:600}
 .trade-prospect{color:#b8c9d9;font-weight:600}
+
+/* Division-by-division standings */
+.division-standings { display: grid; gap: 18px; padding: 0 16px 16px; }
+.division-standings-group h3 { margin: 8px 0 10px; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; color: #d9b76b; }
+.division-standings-group .data-table { min-width: 420px; }
