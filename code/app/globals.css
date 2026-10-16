@@ -47,3 +47,9 @@
 
 /* Free agency player overall rating */
 .fa-ovr{display:inline-flex;align-items:center;margin-left:9px;padding:3px 8px;border:1px solid rgba(212,175,55,.5);border-radius:5px;color:#e6c66b;background:rgba(212,175,55,.10);font-size:12px;font-weight:800;white-space:nowrap}
+
+/* Trade builder: visible overall ratings and annual salary on both sides */
+.trade-player-details{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:6px;font-size:11px}
+.trade-rating{background:#b8954b;color:#101e2b;font-weight:800;border-radius:3px;padding:2px 6px}
+.trade-salary{color:#d6e4f1;font-weight:600}
+.trade-prospect{color:#b8c9d9;font-weight:600}
